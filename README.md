@@ -8,7 +8,10 @@ I developed this project to learn the implementation of genetic/evolutionary AI 
 - PyGame
 - PyTorch
 
-<br/>
+<br>
+
+
+
 <img 
     align="left" 
     alt="Python" 
@@ -17,7 +20,6 @@ I developed this project to learn the implementation of genetic/evolutionary AI 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-          
 <img 
     align="left" 
     alt="PyTorch" 
