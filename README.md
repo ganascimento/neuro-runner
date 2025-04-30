@@ -2,7 +2,7 @@
 
 I developed this project to learn the implementation of genetic/evolutionary AI using a simple game to create the test environment.
 
-## Resources
+## 📚 Resources
 
 - Python
 - PyGame
